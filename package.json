@@ -1,6 +1,6 @@
 {
   "name": "@reallyspecific/bodykit-scss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SCSS compilation and processing engine for Bodykit",
   "main": "main.js",
   "type": "module",
@@ -11,9 +11,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@reallyspecific/bodykit": "^1.4.4",
     "autoprefixer": "^10.4.21",
     "sass": "^1.92.1",
-    "@reallyspecific/bodykit": "^1.4.4"
+    "url": "^0.11.4"
   },
   "author": "FLOPS LLC <ops@floatingpoint.cloud>",
   "license": "GPL-3.0-or-later"
