@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@reallyspecific/bodykit": "^1.4.4",
+    "@reallyspecific/bodykit": "^1.6.0",
     "autoprefixer": "^10.4.21",
     "sass": "^1.92.1",
     "url": "^0.11.4"
